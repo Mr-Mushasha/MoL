@@ -1,0 +1,12 @@
+owner = BAI
+controller = BAI
+add_core = BAI
+add_core = ITA
+trade_goods = grain
+fort = 1
+life_rating = 40
+1861.1.1 = {
+	controller = ITA
+	owner = ITA
+	add_core = ITA
+}

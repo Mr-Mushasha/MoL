@@ -1,0 +1,10 @@
+owner = FRZ
+controller = FRZ
+add_core = FRZ
+trade_goods = fish
+life_rating = 30
+naval_base = 1
+1861.1.1 = { 
+	railroad = 3 
+	naval_base = 2
+}

@@ -1,0 +1,5 @@
+owner = LYO
+controller = LYO
+add_core = LYO
+trade_goods = grain
+life_rating = 30

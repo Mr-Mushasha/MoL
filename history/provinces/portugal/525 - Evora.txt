@@ -1,0 +1,5 @@
+owner = BDJ
+controller = BDJ
+add_core = BDJ
+trade_goods = grain
+life_rating = 35

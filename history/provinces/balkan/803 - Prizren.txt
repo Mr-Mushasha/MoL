@@ -1,0 +1,7 @@
+owner = DIR
+controller = DIR
+add_core = DIR
+add_core = ALB
+add_core = SER
+trade_goods = timber
+life_rating = 35

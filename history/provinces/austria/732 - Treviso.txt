@@ -1,0 +1,7 @@
+owner = RAG
+controller = RAG
+add_core = RAG
+add_core = VEN
+trade_goods = timber
+life_rating = 35
+1861.1.1 = { railroad = 2 }

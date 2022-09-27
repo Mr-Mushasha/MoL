@@ -1,0 +1,6 @@
+owner = BAR
+controller = BAR
+add_core = BAR
+trade_goods = dye
+life_rating = 30
+1861.1.1 = { railroad = 3 }

@@ -1,0 +1,5 @@
+owner = CTH
+controller = CTH
+add_core = CTH
+trade_goods = coal
+life_rating = 35

@@ -1,0 +1,6 @@
+owner = LYO
+controller = LYO
+add_core = LYO
+trade_goods = cattle
+life_rating = 32
+1861.1.1 = { railroad = 3 }

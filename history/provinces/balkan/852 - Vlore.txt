@@ -1,0 +1,7 @@
+owner = RAG
+controller = RAG
+add_core = DIR
+add_core = RAG
+add_core = ALB
+trade_goods = cattle
+life_rating = 35

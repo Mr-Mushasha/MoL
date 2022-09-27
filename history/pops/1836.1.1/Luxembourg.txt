@@ -1,0 +1,89 @@
+#Luxembourg (172000)
+#In personal union with Netherlands in 1836
+#Luxembourg (172000/43000 POPS)
+397 = {
+	aristocrats = {
+		culture = franconian
+		religion = catholic
+		size = 175
+	}
+
+	bureaucrats = {
+		culture = franconian
+		religion = catholic
+		size = 25
+	}
+
+	clergymen = {
+		culture = franconian
+		religion = catholic
+		size = 150
+	}
+
+	artisans = {
+		culture = franconian
+		religion = catholic
+		size = 750
+	}
+
+	soldiers = {
+		culture = franconian
+		religion = catholic
+		size = 2000
+	}
+
+	farmers = {
+		culture = franconian
+		religion = catholic
+		size = 17900
+	}
+	
+	craftsmen = {
+		culture = franconian
+		religion = catholic
+		size = 20
+	}
+
+	aristocrats = {
+		culture = francoje
+		religion = catholic
+		size = 250
+	}
+
+	officers = {
+		culture = francoje
+		religion = catholic
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = francoje
+		religion = catholic
+		size = 50
+	}
+
+	clergymen = {
+		culture = francoje
+		religion = catholic
+		size = 275
+	}
+
+	artisans = {
+		culture = francoje
+		religion = catholic
+		size = 1750
+	}
+
+	soldiers = {
+		culture = francoje
+		religion = catholic
+		size = 250
+	}
+
+	farmers = {
+		culture = francoje
+		religion = catholic
+		size = 20375
+	}
+
+}

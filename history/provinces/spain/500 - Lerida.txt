@@ -1,0 +1,7 @@
+owner = BDU
+controller = BDU
+add_core = BDU
+add_core = CAT
+trade_goods = fruit
+life_rating = 35
+1861.1.1 = { railroad = 2 }

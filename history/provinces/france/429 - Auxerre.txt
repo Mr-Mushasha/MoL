@@ -1,0 +1,5 @@
+owner = FRZ
+controller = FRZ
+add_core = FRZ
+trade_goods = iron
+life_rating = 30

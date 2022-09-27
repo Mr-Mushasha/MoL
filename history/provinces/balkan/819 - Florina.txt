@@ -1,0 +1,6 @@
+owner = DIR
+controller = DIR
+add_core = DIR
+add_core = GRE
+trade_goods = coal
+life_rating = 35
