@@ -35,6 +35,7 @@ LEO		= "countries/Leon.txt"
 VER		= "countries/Verona.txt"
 ALM		= "countries/Almendralejo.txt"
 HUE		= "countries/Huesca.txt"
+STY     = "countries/Styria.txt"
 
 
 
