@@ -163,6 +163,45 @@ germanic = {
 		"von Sachsen-Weimar-Eisenach" "von Schlieffen" "von Schwarzburg" "von Spee" "von Tirpitz" "von Waldeck und Pyrmont" "von Wettin" 
 		"von Wrangel" "von Zieten" "zur Lippe" "von Roon" }
 	}
+	rhinelander = {
+		color = { 140 110 150 } 
+		first_names = { Adolf Albrecht Alexander Alfons Alois Anton Arthur Bernhard Christian
+		Edmund Eduard Engelbert Ernst Erwin Ferdinand Franz Friedrich Gebhard Gerhard Gottfried
+		Günther Gustav Heinrich Hermann Horst Jakob Joachim Johann Joseph
+		Julius Karl Konrad Kurt Leonhard Leopold Lorenz Lothar Ludwig Maximilian
+		Michael Otto Reinhold Rudolf Stefan Theodor Viktor Walter Werner Wilhelm }
+		
+		last_names = { Beck-Rzikowsky Blos Dankl Eisner Geiss Goering Hainisch Haus Held Hellpach
+		Hoffmann Hummel Köhler Mergenthaler Miklas Remmele Schmitt Schobber Seitz Steeb
+		Stolzer Trunk "von Baden" "von Benedek" "von Böhm-Ermolli" "von Brudermann" "von Clam-Gallas" "von der Tann" "von Dietrich" "von Gablenz"
+		"von Grünne" "von Habsburg" "von Hartmann" "von Haynau" "von Hess" "von Hohenhausen" "d'Aspre von Hoobreuk" "von Hortstein" "von Hötzendorf" "von Kirbach"
+		"von Kobratin" "von Schönburg" "von Tegetthoff" "von Uchatius" "von Wittelsbach" "von Württemberg" "von Zahringen" Wagner Wittmann "zu Hohenlohe" }
+	}
+	frisian = { 
+		color = { 230 130 50}
+		first_names = { 
+			Adolf Adriaan Alexander Andreas Antoon Andries Antonius Abraham
+			Barthout
+			Casimir Constantijn Cornelis Christiaan Christoffel 
+			Daniël David Dominicus Daniel Dirk
+			Elias Ernst Erwin Eise
+			Frans Frederik
+			Gijsbert Godfried Gustaaf Gaspar Gabriel Gerard Gerben
+			Hendrik Hans Hugo
+			Isaac
+			Johan Jurgen Jacob Jeroen Jan Joost
+			Karel Kasper
+			Luuk Lodewijk Laurens
+			Marius Matthijs Maximiliaam Merkus Moritz Maurits
+			Nikolaas
+			Pauwel Paul Pieter
+			Quinten
+			Rafaël Ruben Rudolf Roeland Rogier Rutger
+			Stefan Simon
+			Thomas
+			Victor Willem Vincent
+			Zacharias
+		}
 	 
 	union = GER
 }
@@ -834,6 +873,12 @@ iberian = {
 		Montaner Moragues Moret Nebot Nin Oller Prat Prim Puig Riba 
 		Roig Sala Saliquet Savalls Serra Sor Tristany Verdaguer Virigili Vives }
 	}
+	iberian_occitanese = { 
+		color = {110 87 50}
+		first_names = { Alban Andieu Alòi Beròt Carles Estève Fidèl Frederic Girard Jan Jacin Laurenç Martin Nicolau Privat Roman Vincenç }
+		
+		last_names = { Amiel Benet Dardier Delpuech Ladivèze Gilbert Mistral Lacroux Laffont Maury Miquel Montagut Poujade Pujol Vidal Ros Tisseyre }
+	}
 }
 
 french = {
@@ -867,12 +912,6 @@ french = {
 	}
 	occitanese = { 
 		color = {110 110 50}
-		first_names = { Alban Andieu Alòi Beròt Carles Estève Fidèl Frederic Girard Jan Jacin Laurenç Martin Nicolau Privat Roman Vincenç }
-		
-		last_names = { Amiel Benet Dardier Delpuech Ladivèze Gilbert Mistral Lacroux Laffont Maury Miquel Montagut Poujade Pujol Vidal Ros Tisseyre }
-	}
-	iberian_occitanese = { 
-		color = {110 87 50}
 		first_names = { Alban Andieu Alòi Beròt Carles Estève Fidèl Frederic Girard Jan Jacin Laurenç Martin Nicolau Privat Roman Vincenç }
 		
 		last_names = { Amiel Benet Dardier Delpuech Ladivèze Gilbert Mistral Lacroux Laffont Maury Miquel Montagut Poujade Pujol Vidal Ros Tisseyre }

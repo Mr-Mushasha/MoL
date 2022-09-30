@@ -37,6 +37,12 @@ ALM		= "countries/Almendralejo.txt"
 HUE		= "countries/Huesca.txt"
 STY     = "countries/Styria.txt"
 TIR     = "countries/Tirol.txt"
+LAS		= "countries/Landshut.txt"
+ING		= "countries/Ingolstadt.txt"
+REG		= "countries/Regensburg.txt"
+MUN		= "countries/Munich.txt"
+WOR     = "countries/Worms.txt"
+
 
 
 

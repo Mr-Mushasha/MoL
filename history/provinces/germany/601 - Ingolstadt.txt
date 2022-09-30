@@ -1,5 +1,6 @@
-owner = BAV
-controller = BAV
+owner = ING
+controller = ING
+add_core = ING
 add_core = BAV
 add_core = GER
 trade_goods = grain
