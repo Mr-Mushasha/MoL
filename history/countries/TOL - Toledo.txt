@@ -1,5 +1,6 @@
 capital = 489
 primary_culture = sephardic
+culture = ashkenazi
 religion = jewish
 government = presidential_dictatorship
 plurality = 25.0
