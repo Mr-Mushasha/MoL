@@ -130,19 +130,19 @@
 	}
 
 	artisans = {
-		culture = flemish
+		culture = low_german
 		religion = catholic
 		size = 2500
 	}
 
 	soldiers = {
-		culture = flemish
+		culture = low_german
 		religion = catholic
 		size = 300
 	}
 
 	farmers = {
-		culture = flemish
+		culture = low_german
 		religion = catholic
 		size = 15000
 	}
@@ -872,67 +872,67 @@
 	}
 
 	aristocrats = {
-		culture = swabian
+		culture = rhinelander
 		religion = protestant
 		size = 50
 	}
 
 	clergymen = {
-		culture = swabian
+		culture = rhinelander
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = swabian
+		culture = rhinelander
 		religion = protestant
 		size = 3500
 	}
 
 	soldiers = {
-		culture = swabian
+		culture = rhinelander
 		religion = protestant
 		size = 100
 	}
 
 	farmers = {
-		culture = swabian
+		culture = rhinelander
 		religion = protestant
 		size = 6275
 	}
 
 	artisans = {
-		culture = swabian
+		culture = rhinelander
 		religion = jewish
 		size = 1500
 	}
 
 	aristocrats = {
-		culture = swabian
+		culture = rhinelander
 		religion = catholic
 		size = 250
 	}
 
 	clergymen = {
-		culture = swabian
+		culture = rhinelander
 		religion = catholic
 		size = 275
 	}
 
 	artisans = {
-		culture = swabian
+		culture = rhinelander
 		religion = catholic
 		size = 2500
 	}
 
 	soldiers = {
-		culture = swabian
+		culture = rhinelander
 		religion = catholic
 		size = 200
 	}
 
 	farmers = {
-		culture = swabian
+		culture = rhinelander
 		religion = catholic
 		size = 27775
 	}
@@ -970,25 +970,25 @@
 	}
 
 	clergymen = {
-		culture = swabian
+		culture = rhinelander
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = swabian
+		culture = rhinelander
 		religion = catholic
 		size = 1525
 	}
 
 	soldiers = {
-		culture = swabian
+		culture = rhinelander
 		religion = catholic
 		size = 25
 	}
 
 	labourers = {
-		culture = swabian
+		culture = rhinelander
 		religion = catholic
 		size = 1400
 	}
@@ -1026,25 +1026,25 @@
 	}
 
 	clergymen = {
-		culture = swabian
+		culture = rhinelander
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = swabian
+		culture = rhinelander
 		religion = catholic
 		size = 1225
 	}
 
 	soldiers = {
-		culture = swabian
+		culture = rhinelander
 		religion = catholic
 		size = 25
 	}
 
 	labourers = {
-		culture = swabian
+		culture = rhinelander
 		religion = catholic
 		size = 700
 	}

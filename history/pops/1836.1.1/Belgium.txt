@@ -26,121 +26,121 @@
 	}
 
 	aristocrats = {
-		culture = francoje
+		culture = low_german
 		religion = catholic
 		size = 1500
 	}
 
 	officers = {
-		culture = francoje
+		culture = low_german
 		religion = catholic
 		size = 200
 	}
 
 	bureaucrats = {
-		culture = francoje
+		culture = low_german
 		religion = catholic
 		size = 400
 	}
 
 	clergymen = {
-		culture = francoje
+		culture = low_german
 		religion = catholic
 		size = 625
 	}
 
 	capitalists = {
-		culture = francoje
+		culture = low_german
 		religion = catholic
 		size = 50
 	}
 
 	clerks = {
-		culture = francoje
+		culture = low_german
 		religion = catholic
 		size = 2550
 	}
 
 	craftsmen = {
-		culture = francoje
+		culture = low_german
 		religion = catholic
 		size = 5000
 	}
 	
 	artisans = {
-		culture = francoje
+		culture = low_german
 		religion = catholic
 		size = 10000
 	}
 
 	soldiers = {
-		culture = francoje
+		culture = low_german
 		religion = catholic
 		size = 3000
 	}
 
 	labourers = {
-		culture = francoje
+		culture = low_german
 		religion = catholic
 		size = 50725
 	}
 
 	aristocrats = {
-		culture = francoje
+		culture = low_german
 		religion = catholic
 		size = 300
 	}
 
 	officers = {
-		culture = francoje
+		culture = low_german
 		religion = catholic
 		size = 450
 	}
 
 	bureaucrats = {
-		culture = francoje
+		culture = low_german
 		religion = catholic
 		size = 800
 	}
 
 	clergymen = {
-		culture = francoje
+		culture = low_german
 		religion = catholic
 		size = 250
 	}
 
 	capitalists = {
-		culture = francoje
+		culture = low_german
 		religion = catholic
 		size = 150
 	}
 
 	clerks = {
-		culture = francoje
+		culture = low_german
 		religion = catholic
 		size = 900
 	}
 
 	craftsmen = {
-		culture = francoje
+		culture = low_german
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = francoje
+		culture = low_german
 		religion = catholic
 		size = 7300
 	}
 
 	soldiers = {
-		culture = francoje
+		culture = low_german
 		religion = catholic
 		size = 1100
 	}
 
 	labourers = {
-		culture = francoje
+		culture = low_german
 		religion = catholic
 		size = 5650
 	}
@@ -148,37 +148,37 @@
 #Bruges (456000/114000 POPS)
 388 = {
 	aristocrats = {
-		culture = francoje
+		culture = low_german
 		religion = catholic
 		size = 1150
 	}
 
 	clergymen = {
-		culture = francoje
+		culture = low_german
 		religion = catholic
 		size = 625
 	}
 
 	artisans = {
-		culture = francoje
+		culture = low_german
 		religion = catholic
 		size = 10000
 	}
 	
 	artisans = {
-		culture = francoje
+		culture = low_german
 		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
-		culture = francoje
+		culture = low_german
 		religion = catholic
 		size = 1700
 	}
 
 	farmers = {
-		culture = francoje
+		culture = low_german
 		religion = catholic
 		size = 100525
 	}
@@ -186,55 +186,55 @@
 #Ghent (704000/176000 POPS)
 389 = {
 	aristocrats = {
-		culture = francoje
+		culture = low_german
 		religion = catholic
 		size = 1750
 	}
 
 	clergymen = {
-		culture = francoje
+		culture = low_german
 		religion = catholic
 		size = 1250
 	}
 
 	artisans = {
-		culture = francoje
+		culture = low_german
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = francoje
+		culture = low_german
 		religion = catholic
 		size = 6000
 	}
 
 	soldiers = {
-		culture = francoje
+		culture = low_german
 		religion = catholic
 		size = 2250
 	}
 
 	farmers = {
-		culture = francoje
+		culture = low_german
 		religion = catholic
 		size = 149750
 	}
 
 	clergymen = {
-		culture = francoje
+		culture = low_german
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = francoje
+		culture = low_german
 		religion = catholic
 		size = 4900
 	}
 
 	soldiers = {
-		culture = francoje
+		culture = low_german
 		religion = catholic
 		size = 50
 	}
@@ -254,55 +254,55 @@
 	}
 
 	aristocrats = {
-		culture = francoje
+		culture = low_german
 		religion = catholic
 		size = 825
 	}
 
 	clergymen = {
-		culture = francoje
+		culture = low_german
 		religion = catholic
 		size = 575
 	}
 
 	artisans = {
-		culture = francoje
+		culture = low_german
 		religion = catholic
 		size = 3600
 	}
 
 	artisans = {
-		culture = francoje
+		culture = low_german
 		religion = catholic
 		size = 10000
 	}
 
 	soldiers = {
-		culture = francoje
+		culture = low_german
 		religion = catholic
 		size = 1400
 	}
 
 	farmers = {
-		culture = francoje
+		culture = low_german
 		religion = catholic
 		size = 67700
 	}
 
 	clergymen = {
-		culture = francoje
+		culture = low_german
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = francoje
+		culture = low_german
 		religion = catholic
 		size = 2925
 	}
 
 	soldiers = {
-		culture = francoje
+		culture = low_german
 		religion = catholic
 		size = 25
 	}
@@ -310,31 +310,31 @@
 #Hasselt (272000/68000 POPS)
 391 = {
 	aristocrats = {
-		culture = francoje
+		culture = low_german
 		religion = catholic
 		size = 650
 	}
 
 	clergymen = {
-		culture = francoje
+		culture = low_german
 		religion = catholic
 		size = 475
 	}
 
 	artisans = {
-		culture = francoje
+		culture = low_german
 		religion = catholic
 		size = 3700
 	}
 
 	soldiers = {
-		culture = francoje
+		culture = low_german
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = francoje
+		culture = low_german
 		religion = catholic
 		size = 62175
 	}
@@ -639,7 +639,7 @@
 	}
 	
 	farmers = {
-		culture = franconian
+		culture = rhinelander
 		religion = protestant
 		size = 1250
 	}
@@ -647,31 +647,31 @@
 #Spa - Eupen-Malmedy (144000/36000 POPS)
 396 = {
 	aristocrats = {
-		culture = franconian
+		culture = rhinelander
 		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = franconian
+		culture = rhinelander
 		religion = catholic
 		size = 200
 	}
 
 	artisans = {
-		culture = franconian
+		culture = rhinelander
 		religion = catholic
 		size = 450
 	}
 
 	soldiers = {
-		culture = franconian
+		culture = rhinelander
 		religion = catholic
 		size = 1200
 	}
 
 	farmers = {
-		culture = franconian
+		culture = rhinelander
 		religion = catholic
 		size = 8375
 	}
@@ -741,13 +741,13 @@
 	}
 	
 	artisans = {
-		culture = franconian
+		culture = rhinelander
 		religion = protestant
 		size = 600
 	}
 	
 	farmers = {
-		culture = franconian
+		culture = rhinelander
 		religion = protestant
 		size = 8500
 	}

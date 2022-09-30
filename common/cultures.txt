@@ -178,7 +178,7 @@ germanic = {
 		"von Kobratin" "von Schönburg" "von Tegetthoff" "von Uchatius" "von Wittelsbach" "von Württemberg" "von Zahringen" Wagner Wittmann "zu Hohenlohe" }
 	}
 	frisian = { 
-		color = { 230 130 50}
+		color = { 220 120 40}
 		first_names = { 
 			Adolf Adriaan Alexander Andreas Antoon Andries Antonius Abraham
 			Barthout
