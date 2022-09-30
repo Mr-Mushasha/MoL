@@ -710,7 +710,12 @@
 	farmers = {
 		culture = geate
 		religion = protestant
-		size = 60625
+		size = 40625
+	}
+	farmers = {
+		culture = gute
+		religion = protestant
+		size = 20625
 	}
 
 }
