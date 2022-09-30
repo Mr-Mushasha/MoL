@@ -1915,31 +1915,31 @@ farmers = {
 #Albacete (20000/50000 POPS)
 508 = {
 	aristocrats = {
-		culture = leonese
+		culture = iberian_occitanese
 		religion = catholic
 		size = 1100
 	}
 
 	clergymen = {
-		culture = leonese
+		culture = iberian_occitanese
 		religion = catholic
 		size = 500
 	}
 
 	artisans = {
-		culture = leonese
+		culture = iberian_occitanese
 		religion = catholic
 		size = 2400
 	}
 
 	soldiers = {
-		culture = leonese
+		culture = iberian_occitanese
 		religion = catholic
 		size = 500
 	}
 
 	farmers = {
-		culture = leonese
+		culture = iberian_occitanese
 		religion = catholic
 		size = 45600
 	}
