@@ -4400,119 +4400,119 @@
 #Aschaffenburg (136000/34000 POPS)
 596 = {
 	aristocrats = {
-		culture = swabian
+		culture = franconian
 		religion = catholic
 		size = 350 
 	}
 
 	clergymen = {
-		culture = swabian
+		culture = franconian
 		religion = catholic
 		size = 350
 	}
 
 	artisans = {
-		culture = swabian
+		culture = franconian
 		religion = catholic
 		size = 1750
 	}
 
 	soldiers = {
-		culture = swabian
+		culture = franconian
 		religion = catholic
 		size = 350 
 	}
 
 	farmers = {
-		culture = swabian
+		culture = franconian
 		religion = catholic
-		size = 31200
+		size = 71200
 	}
 }
 #Wurzburg (300000/75000 POPS)
 597 = {
 	aristocrats = {
-		culture = swabian
+		culture = franconian
 		religion = catholic
 		size = 750 
 	}
 
 	clergymen = {
-		culture = swabian
+		culture = franconian
 		religion = catholic
 		size = 750 
 	}
 
 	artisans = {
-		culture = swabian
+		culture = franconian
 		religion = catholic
 		size = 7000
 	}
 
 	soldiers = {
-		culture = swabian
+		culture = franconian
 		religion = catholic
 		size = 1000
 	}
 
 	farmers = {
-		culture = swabian
+		culture = franconian
 		religion = catholic
-		size = 65500
+		size = 105500
 	}
 }
 #Bayreuth (536000/134000 POPS)
 598 = {
 	aristocrats = {
-		culture = swabian
+		culture = franconian
 		religion = catholic
 		size = 550 
 	}
 
 	clergymen = {
-		culture = swabian
+		culture = franconian
 		religion = catholic
 		size = 550
 	}
 
 	artisans = {
-		culture = swabian
+		culture = franconian
 		religion = catholic
 		size = 2500
 	}
 
 	soldiers = {
-		culture = swabian
+		culture = franconian
 		religion = catholic
 		size = 600 
 	}
 
 	farmers = {
-		culture = swabian
+		culture = franconian
 		religion = catholic
 		size = 45800
 	}
 
 	clergymen = {
-		culture = swabian
+		culture = franconian
 		religion = protestant
 		size = 900
 	}
 
 	artisans = {
-		culture = swabian
+		culture = franconian
 		religion = protestant
 		size = 4900
 	}
 
 	soldiers = {
-		culture = swabian
+		culture = franconian
 		religion = protestant
 		size = 900 
 	}
 
 	farmers = {
-		culture = swabian
+		culture = franconian
 		religion = protestant
 		size = 77300  
 	}

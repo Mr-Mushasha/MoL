@@ -1,5 +1,6 @@
-capital = 595
-primary_culture = south_german
+capital = 598
+primary_culture = franconian
+culture = swabian
 religion = catholic
 government = absolute_monarchy
 plurality = 25.0

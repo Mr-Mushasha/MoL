@@ -7,7 +7,7 @@ REB 	= 	"countries/rebels.txt"
 #Europe#
 FRZ		= "countries/Franca.txt"
 BAR 	= "countries/Bar.txt"
-ALE		= "countries/Alamannia.txt"
+SWA		= "countries/Swabia.txt"
 RAG		= "countries/Ragusa.txt"  
 FRN		= "countries/Franconia.txt"
 AUG		= "countries/Augsburg.txt"
