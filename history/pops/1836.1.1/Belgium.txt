@@ -128,7 +128,7 @@
 	}
 
 	artisans = {
-		culture = low_german
+		culture = francoje
 		religion = catholic
 		size = 7300
 	}
@@ -140,7 +140,7 @@
 	}
 
 	labourers = {
-		culture = low_german
+		culture = francoje
 		religion = catholic
 		size = 5650
 	}
